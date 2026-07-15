@@ -1,0 +1,5 @@
+# 빌드 산출물은 git에 넣지 않는다 - GitHub Releases의 zip 자산으로 배포한다.
+# (_internal 안 llvmlite.dll 등이 100MB를 넘어 일반 git push가 거부됨)
+_internal/
+Latte_1.exe
+*.zip
