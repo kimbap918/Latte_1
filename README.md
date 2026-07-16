@@ -12,13 +12,15 @@ A desktop simulator that renders how your character looks wearing combinations o
 
 ## 다운로드 / 실행(Download / Run)
 
+### ※ 가장 최신 버전의 릴리즈를 다운받아주시면 됩니다! Note: Please download the latest version of the release!
+
 빌드된 실행 파일은 이 저장소의 [**Releases**](../../releases) 에서 zip으로 받아주세요! <br>
 Get the built executable as a zip from this repository's [**Releases**](../../releases) page!
 
 <br>
 
-1. 최신 릴리스의 `Latte_1_v1.0.0.zip` 다운로드 후 압축 해제 <br>
-Download `Latte_1_v1.0.0.zip` from the latest release and extract it.
+1. 최신 릴리스의 `Latte_1_vX.X.X.zip` 다운로드 후 압축 해제 <br>
+Download `Latte_1_vX.X.X.zip` from the latest release and extract it.
   ![](https://i.imgur.com/puuEb4o.png)
 
 <br>
