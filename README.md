@@ -13,7 +13,12 @@ A desktop simulator that renders how your character looks wearing combinations o
 
 
 ## Web Version
-https://kimbap918.github.io/
+https://kimbap918.github.io/  <br>
+
+현재 싱가포르의 서버를 사용중입니다. 로드 중 오랜 지연이나 에러 발생 시 30초~1분 뒤에 새로고침을 해주세요!  
+
+Servers are based in Singapore. If you experience delays or errors, please refresh after 30s~1m. <br>
+
 
 
 <br>
