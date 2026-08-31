@@ -1,5 +1,9 @@
 # Latte_1 — 라테일 코디 시뮬레이터(LaTale Costume Simulator)
 
+**Source code is private due to proprietary implementation and third-party IP constraints** 
+
+
+
 라테일 장비 아이템을 조합해 캐릭터가 옷을 입은 모습을 렌더링하는 데스크톱 시뮬레이터 입니다! <br>
 A desktop simulator that renders how your character looks wearing combinations of LaTale equipment items!
 
@@ -145,3 +149,7 @@ chipok(kimbap918)
 ![](https://i.imgur.com/cMyuo3o.png)
 
 
+
+
+이 프로그램은 라테일(원작: Actoz Soft) 팬메이드 도구이며, 원작의 저작권은 Actoz Soft에 있습니다.  <br>
+This program is a fan-made desktop tool for LaTale All original game copyrights belong to Actoz Soft.
