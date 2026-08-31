@@ -1,6 +1,6 @@
 # Latte_1 — 라테일 코디 시뮬레이터(LaTale Costume Simulator)
 
-**Source code is private due to proprietary implementation and third-party IP constraints** 
+**This is a fan-made software utilizing assets from LaTale. To respect the original IP and due to internal reasons, the source code is private.** 
 
 
 
